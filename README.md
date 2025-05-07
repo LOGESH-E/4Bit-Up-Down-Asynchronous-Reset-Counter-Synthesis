@@ -70,7 +70,7 @@ used.
 
 #### Area report:
 
-![Screenshot (123)](https://github.com/user-attachments/assets/8422a957-a8e9-4711-baba-70d16c56292d)
+![Screenshot (125)](https://github.com/user-attachments/assets/2d80ea39-e2f7-4fbb-8b6e-0c5fc0904ba2)
 
 
 #### Power Report:
